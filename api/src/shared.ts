@@ -1,1 +1,1 @@
-export type Bindings = { db: string }
+export type Bindings = Env
